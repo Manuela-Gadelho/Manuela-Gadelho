@@ -8,7 +8,7 @@ Oi, bem-vindo(a) ao meu perfil nesse site do gatinho...
   
   <a href="https://github.com/manuela-gadelho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuela-gadelho&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuela-gadelho&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=outrun"/>
     </div>
 <div style="display: inline_block"><br>
   
@@ -21,6 +21,9 @@ Oi, bem-vindo(a) ao meu perfil nesse site do gatinho...
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+  <img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <img src ="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img src=" https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
   <img="my-octocat-1632927808878.png" width="300" height="300" border="0"></a>                          
   <a href="https://www.youtube.com/channel/UCx9WTK1q7HlLhIAhQ2LugVQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
