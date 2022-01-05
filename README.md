@@ -7,8 +7,7 @@ Oi, bem-vindo(a) ao meu perfil nesse site do gatinho...
 <div align="center" style="display: inline_block">
   
   <a href="https://github.com/manuela-gadelho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuela-gadelho&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=outrun"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuela-gadelho&show_icons=true&theme=outrun&include_all_commits=true&count_private=true">
     </div>
 <div style="display: inline_block"><br>
   
