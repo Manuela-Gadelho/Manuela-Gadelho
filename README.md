@@ -1,7 +1,7 @@
 Oi, bem-vindo(a) ao meu perfil nesse site do gatinho...
 
-- 🔭 Atualmente estou trabalhando em análise de dados; 
-- 🌱 Estudando SQL e C#;
+- 🔭 Atualmente estou trabalhando como Analista de Suporte; 
+- 🌱 Estudando Front-end;
 - 😄 Pronomes: ela/dela.
 
 <div align="center" style="display: inline_block">
