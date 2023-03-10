@@ -1,7 +1,7 @@
 Oi, bem-vindo(a) ao meu perfil nesse site do gatinho...
 
 - 🔭 Atualmente estou trabalhando como Analista de Suporte; 
-- 🌱 Estudando Front-end;
+- 🌱 Estudando Java;
 - 😄 Pronomes: ela/dela.
 
 <div align="center" style="display: inline_block">
