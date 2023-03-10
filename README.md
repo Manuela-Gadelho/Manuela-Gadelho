@@ -25,6 +25,7 @@ Oi, bem-vindo(a) ao meu perfil nesse site do gatinho...
   </div>
   
   <div style="display:inline-block"> </br>
+  Você pode me encontrar em:
   <a href="https://www.youtube.com/channel/UCx9WTK1q7HlLhIAhQ2LugVQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/magadelho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/manuuu_gadelho" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
