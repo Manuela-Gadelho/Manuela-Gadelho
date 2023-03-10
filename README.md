@@ -21,8 +21,12 @@ Oi, bem-vindo(a) ao meu perfil nesse site do gatinho...
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src ="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
+  </div>
+  <div style="display: inline-block"></br>
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-  <img="my-octocat-1632927808878.png" width="300" height="300" border="0"></a>                          
+  </div>
+  <img src="my-octocat-1632927808878.png" width="300" height="300" border="0"></a>   
+  <div style="display:inline-block"> </br>
   <a href="https://www.youtube.com/channel/UCx9WTK1q7HlLhIAhQ2LugVQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/magadelho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/manuuu_gadelho" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -30,7 +34,7 @@ Oi, bem-vindo(a) ao meu perfil nesse site do gatinho...
   <a href="https://steamcommunity.com/id/manumoreira/" target="_blank"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
   <a href = "mailto:manugadelho@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/manuela-gadelho-44271b221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  </div>
   
  ![Snake animation](https://github.com/Manuela-Gadelho/Manuela-Gadelho/blob/output/github-contribution-grid-snake.svg)
  
