@@ -1,4 +1,4 @@
-Oi, bem-vindo(a) ao meu perfil nesse site do gatinho...
+Oi, bem-vindo(a) ao meu perfil nesse site do gatinho.
 
 - 🔭 Atualmente estou trabalhando como Analista de Suporte Computacional; 
 - 🎓 Engenharia de Computação 7/10;
