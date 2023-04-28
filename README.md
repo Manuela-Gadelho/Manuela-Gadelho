@@ -1,7 +1,7 @@
 Oi, bem-vindo(a) ao meu perfil nesse site do gatinho...
 
 - 🔭 Atualmente estou trabalhando como Analista de Suporte Computacional; 
-- &#128211 
+- 🎓 Engenharia de Computação 7/10;
 - 🌱 Aprendendo Java;
 
 <div align="center" style="display: inline_block">
