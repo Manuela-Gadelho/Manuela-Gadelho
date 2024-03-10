@@ -1,9 +1,9 @@
 Oi, bem-vindo(a) ao meu perfil nesse site do gatinho.
 
 - 🔭 Atualmente estou trabalhando como Analista de Suporte Computacional; 
-- 🎓 Engenharia de Computação 8/10;
-- 🎓 Análise e Desenvolvimento de Sistemas 1/6;
-- 🌱 Aprendendo C;
+- 🎓 Engenharia de Computação 9/10;
+- 🎓 Análise e Desenvolvimento de Sistemas 2/6;
+- 🌱 Aprendendo C#;
 
 <div align="center" style="display: inline_block">
   
