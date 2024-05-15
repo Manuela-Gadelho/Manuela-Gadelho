@@ -1,12 +1,12 @@
 Hi, welcome to my profile on this kitten-themed website.
-\
+
 
 🔭 Currently working as a Computer Support Analyst
 \
 🎓 Computer Engineering 9/10 and Systems Analysis and Development 2/6
 \
 ☕ Learning C# and Java
-\
+
 <div align="center" style="display: inline_block">
   
   <a href="https://github.com/manuela-gadelho">
