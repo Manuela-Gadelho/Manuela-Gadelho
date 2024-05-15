@@ -1,9 +1,8 @@
-Oi, bem-vindo(a) ao meu perfil nesse site do gatinho.
+Hi, welcome to my profile on this kitten-themed website.
 
-- 🔭 Atualmente estou trabalhando como Analista de Suporte Computacional; 
-- 🎓 Engenharia de Computação 9/10;
-- 🎓 Análise e Desenvolvimento de Sistemas 2/6;
-- 🌱 Aprendendo C#;
+🔭 Currently working as a Computer Support Analyst
+🎓 Computer Engineering 9/10 and Systems Analysis and Development 2/6
+☕ Learning C# and Java
 
 <div align="center" style="display: inline_block">
   
