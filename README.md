@@ -10,8 +10,8 @@ Hi, welcome to my profile on this kitten-themed website.
 <div align="center" style="display: inline_block">
   
   <a href="https://github.com/manuela-gadelho">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=manuela-gadelho&show_icons=true&theme=outrun&include_all_commits=true&count_private=true">
-  <img height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuela-gadelho&layout=compact&langs_count=7&theme=outrun">  
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=manuela-gadelho&show_icons=true&theme=outrun&include_all_commits=true&count_private=true">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuela-gadelho&layout=compact&langs_count=7&theme=outrun">  
     </div>
 <div style="display: inline_block"><br>
   
