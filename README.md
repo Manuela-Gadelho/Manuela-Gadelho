@@ -38,6 +38,6 @@ Hi, welcome to my profile on this kitten-themed website.
   <a href = "mailto:manugadelho@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
   </div>
   
- <!-- ![Snake animation](https://github.com/Manuela-Gadelho/Manuela-Gadelho/blob/output/github-contribution-grid-snake.svg) -->
+ ![Snake animation](https://github.com/Manuela-Gadelho/Manuela-Gadelho/blob/output/github-contribution-grid-snake.svg) 
  
 </div>
