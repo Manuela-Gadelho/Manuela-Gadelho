@@ -5,7 +5,7 @@ Hi, welcome to my profile on this kitten-themed website.
 \
 🎓 Computer Engineering 9/10 and Systems Analysis and Development 2/6
 \
-☕ Learning C# and Java
+☕ Learning Java and Spring Boot
 
 <div align="center" style="display: inline_block">
   
