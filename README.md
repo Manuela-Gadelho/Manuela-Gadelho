@@ -3,7 +3,7 @@ Hi, welcome to my profile on this kitten-themed website.
 
 🔭 Currently working as a Computer Support Analyst
 \
-🎓 Computer Engineering and Systems Analysis and Development Student 4/6
+🎓 Computer Engineer and Systems Analysis and Development Student 4/6
 \
 ☕ Learning Java and Spring Boot
 
