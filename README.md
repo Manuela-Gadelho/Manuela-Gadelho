@@ -1,4 +1,4 @@
-Hi, welcome to my profile on this kitten-themed website.
+Hi, welcome to my profile!
 
 
 🔭 Currently working as a Computer Support Analyst
