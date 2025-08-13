@@ -4,7 +4,8 @@ Hi, welcome to my profile!
 🔭 Currently working as a Computer Support Analyst
 \
 🎓 Computer Engineer 
-  Systems Analysis and Development Student 5/6
+\
+🎓  Systems Analysis and Development Student 5/6
 \
 ☕ Learning Java and Spring Boot
 
