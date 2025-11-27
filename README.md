@@ -5,7 +5,7 @@ Hi, welcome to my profile!
 \
 🎓 Computer Engineer 
 \
-🎓  Systems Analysis and Development Student 5/6
+🎓  Systems Analysis and Development Student 6/6
 \
 ☕ Learning Java and Spring Boot
 
