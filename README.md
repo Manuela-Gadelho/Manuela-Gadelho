@@ -1,7 +1,7 @@
 Hi, welcome to my profile!
 
 
-🔭 Currently working as a Computer Support Analyst
+🔭 Currently working as a IT Developer 2
 \
 🎓 Computer Engineer 
 \
