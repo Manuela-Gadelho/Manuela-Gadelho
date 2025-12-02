@@ -7,7 +7,7 @@ Hi, welcome to my profile!
 \
 🎓  Systems Analysis and Development Student 6/6
 \
-☕ Learning Java and Spring Boot
+📚 Learning AWS
 
 <div align="center" style="display: inline_block">
   
